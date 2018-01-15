@@ -1,0 +1,19 @@
+{
+  "name": "bitcore-btc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bitcore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorSavva/bitcore-btc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhorSavva/bitcore-btc/issues"
+  },
+  "homepage": "https://github.com/IhorSavva/bitcore-btc#readme"
+}
